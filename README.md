@@ -4,7 +4,7 @@ This project was created to test animations with Flutter SDK. The result is a Fi
 
 ## Application Preview
 *This animation will be 60 fps on devices. This gif has a reduced framerate to reduce image size!*
-[preview]: https://github.com/bramvbilsen/Flutter-Fidget-Spinner-App-Animations-/blob/master/preview/tMLl38ECTb.gif "Application preview"
+![](https://raw.githubusercontent.com/bramvbilsen/Flutter-Fidget-Spinner-App-Animations-/master/preview/tMLl38ECTb.gif)
 
 ## Educational purpose only
 I do not own the images of these fidgets spinners. All credits for these images go to the original creator. The links for the fidget spinner images are:
