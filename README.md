@@ -4,6 +4,7 @@ This project was created to test animations with Flutter SDK. The result is a Fi
 
 ## Application Preview
 *This animation will be 60 fps on devices. This gif has a reduced framerate to reduce image size!*
+### The second tab now has a fidget spinner that will spin when you slide your finger over the screen!
 ![](https://raw.githubusercontent.com/bramvbilsen/Flutter-Fidget-Spinner-App-Animations-/master/preview/tMLl38ECTb.gif)
 
 ## Educational purpose only
