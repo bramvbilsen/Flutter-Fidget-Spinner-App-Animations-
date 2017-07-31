@@ -32,7 +32,7 @@ class FlickableFidgetSpinnerState extends State<FlickableFidgetSpinner> with Sin
         curve: Curves.linear,
     )..addStatusListener((AnimationStatus status) {
       if (status == AnimationStatus.completed && spins > 0) {
-        if (speed >= 50)
+        if (speed >= 150)
           speed -= 50;
         _controller.duration = new Duration(milliseconds: speed);
         _controller.forward(from: _controller.value == null ? 0.0 : 1 - _controller.value);
